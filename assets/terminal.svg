@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="360" viewBox="0 0 660 360" role="img" aria-label="Animated terminal running whoami: Freymer Sepulveda, Backend and Cloud Developer working with Node.js, TypeScript, Python and AWS, based in Medellin, Colombia and open to work.">
+  <title>whoami - Freymer Sepulveda, Backend &amp; Cloud Developer</title>
+
+  <style>
+    .mono {
+      font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 14px;
+      white-space: pre;
+    }
+    .cover { fill: #0d1117; transform-box: fill-box; transform-origin: right center; }
+    .cursor { fill: #58a6ff; }
+    .anim { animation-duration: 16s; animation-iteration-count: infinite; }
+
+    .p1     { animation-name: showPrompt1; }
+    .type1  { animation-name: type1; animation-timing-function: steps(6, end); }
+    .cur1   { animation-name: move1; animation-timing-function: steps(6, end); }
+    .cur1v  { animation-name: cursor1Visible; }
+    .out1   { animation-name: fadeAt12; }
+    .out2   { animation-name: fadeAt14; }
+    .out3   { animation-name: fadeAt16; }
+    .p2     { animation-name: showPrompt2; }
+    .type2  { animation-name: type2; animation-timing-function: steps(12, end); }
+    .cur2   { animation-name: move2; animation-timing-function: steps(12, end); }
+    .cur2v  { animation-name: cursor2Visible; }
+    .bubble { animation-name: fadeAt35; }
+    .dog    { animation-name: fadeAt37; }
+    .p3     { animation-name: fadeAt43; }
+    .blink  { animation: blink 1.1s steps(1, end) infinite; }
+
+    @keyframes showPrompt1    { 0%, 2%    { opacity: 0 } 3%,  100% { opacity: 1 } }
+    @keyframes type1          { 0%, 3%    { transform: scaleX(1) } 10%, 100% { transform: scaleX(0) } }
+    @keyframes move1          { 0%, 3%    { transform: translateX(0) } 10%, 100% { transform: translateX(50.4px) } }
+    @keyframes cursor1Visible { 0%, 2.9%  { opacity: 0 } 3%, 10.4% { opacity: 1 } 10.5%, 100% { opacity: 0 } }
+
+    @keyframes fadeAt12 { 0%, 12% { opacity: 0 } 14%, 100% { opacity: 1 } }
+    @keyframes fadeAt14 { 0%, 14% { opacity: 0 } 16%, 100% { opacity: 1 } }
+    @keyframes fadeAt16 { 0%, 16% { opacity: 0 } 18%, 100% { opacity: 1 } }
+
+    @keyframes showPrompt2    { 0%, 22%   { opacity: 0 } 23%, 100% { opacity: 1 } }
+    @keyframes type2          { 0%, 23%   { transform: scaleX(1) } 33%, 100% { transform: scaleX(0) } }
+    @keyframes move2          { 0%, 23%   { transform: translateX(0) } 33%, 100% { transform: translateX(100.8px) } }
+    @keyframes cursor2Visible { 0%, 22.9% { opacity: 0 } 23%, 33.4% { opacity: 1 } 33.5%, 100% { opacity: 0 } }
+
+    @keyframes fadeAt35 { 0%, 35% { opacity: 0 } 37%, 100% { opacity: 1 } }
+    @keyframes fadeAt37 { 0%, 37% { opacity: 0 } 40%, 100% { opacity: 1 } }
+    @keyframes fadeAt43 { 0%, 43% { opacity: 0 } 45%, 100% { opacity: 1 } }
+
+    @keyframes blink { 0%, 50% { opacity: 1 } 50.01%, 100% { opacity: 0 } }
+  </style>
+
+  <rect x="0.5" y="0.5" width="659" height="359" rx="10" fill="#161b22" stroke="#30363d" />
+  <rect x="0.5" y="34" width="659" height="325.5" rx="10" fill="#0d1117" />
+  <rect x="0.5" y="34" width="659" height="12" fill="#0d1117" />
+  <line x1="0.5" y1="34" x2="659.5" y2="34" stroke="#30363d" />
+
+  <circle cx="22" cy="17" r="6" fill="#ff5f56" />
+  <circle cx="42" cy="17" r="6" fill="#ffbd2e" />
+  <circle cx="62" cy="17" r="6" fill="#27c93f" />
+  <text class="mono" x="330" y="22" text-anchor="middle" fill="#8b949e" font-size="12">frey-jsp &#8212; zsh</text>
+
+  <g class="mono">
+    <text class="anim p1" x="20" y="66" opacity="0"><tspan fill="#58a6ff">~</tspan><tspan fill="#7ee787"> $ </tspan></text>
+    <text x="53.6" y="66" fill="#e6edf3" textLength="50.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">whoami</text>
+    <rect class="cover anim type1" x="53.6" y="54" width="50.4" height="17" />
+    <g class="anim cur1v" opacity="0">
+      <rect class="cursor anim cur1" x="53.6" y="54" width="8.4" height="17" />
+    </g>
+
+    <text class="anim out1" x="20" y="92" opacity="0" xml:space="preserve"><tspan fill="#e6edf3">Freymer Sep&#250;lveda</tspan><tspan fill="#8b949e"> &#8212; </tspan><tspan fill="#58a6ff">Backend &amp; Cloud Developer</tspan></text>
+    <text class="anim out2" x="20" y="112" opacity="0" xml:space="preserve"><tspan fill="#8b949e">Stack:</tspan><tspan fill="#7ee787"> Node.js &#183; TypeScript &#183; Python &#183; AWS</tspan></text>
+    <text class="anim out3" x="20" y="132" opacity="0" xml:space="preserve"><tspan fill="#8b949e">Based in Medell&#237;n, Colombia &#183; </tspan><tspan fill="#d2a8ff">Open to work</tspan></text>
+
+    <text class="anim p2" x="20" y="162" opacity="0"><tspan fill="#58a6ff">~</tspan><tspan fill="#7ee787"> $ </tspan></text>
+    <text x="53.6" y="162" fill="#e6edf3" textLength="100.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">dogsay --tip</text>
+    <rect class="cover anim type2" x="53.6" y="150" width="100.8" height="17" />
+    <g class="anim cur2v" opacity="0">
+      <rect class="cursor anim cur2" x="53.6" y="150" width="8.4" height="17" />
+    </g>
+
+    <g class="anim bubble" opacity="0" fill="#8b949e">
+      <text x="20" y="188" textLength="352.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> _________________________________________</text>
+      <text x="20" y="204" textLength="361.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">&lt; Ship small. Test early. Log everything. &gt;</text>
+      <text x="20" y="220" textLength="352.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> -----------------------------------------</text>
+    </g>
+
+    <g class="anim dog" opacity="0" fill="#f0883e">
+      <text x="20" y="238" textLength="142.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        \   / \__</text>
+      <text x="20" y="254" textLength="176.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         \ (    @\___</text>
+      <text x="20" y="270" textLength="193.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            /         O</text>
+      <text x="20" y="286" textLength="184.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">           /   (_____/</text>
+      <text x="20" y="302" textLength="176.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          /_____/   U</text>
+    </g>
+
+    <g class="anim p3" opacity="0">
+      <text x="20" y="330"><tspan fill="#58a6ff">~</tspan><tspan fill="#7ee787"> $ </tspan></text>
+      <rect class="cursor blink" x="53.6" y="318" width="8.4" height="17" />
+    </g>
+  </g>
+</svg>
