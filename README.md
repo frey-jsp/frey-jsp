@@ -20,7 +20,7 @@
 
 ---
 
-## About me
+<h2><img src="./assets/heading-about.svg" width="320" height="44" alt="About me" /></h2>
 
 Backend and cloud developer based in Medellín, Colombia. I build **REST and serverless APIs** with **Node.js**, **TypeScript** and **Python**, backed by **SQL and NoSQL databases**, and deploy them on **AWS** using **Lambda, API Gateway, S3 and IAM**.
 
@@ -34,7 +34,7 @@ Backend and cloud developer based in Medellín, Colombia. I build **REST and ser
 
 ---
 
-## Tech stack
+<h2><img src="./assets/heading-stack.svg" width="320" height="44" alt="Tech stack" /></h2>
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Backend and cloud developer based in Medellín, Colombia. I build **REST and ser
 
 ---
 
-## GitHub activity
+<h2><img src="./assets/heading-activity.svg" width="320" height="44" alt="GitHub activity" /></h2>
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Backend and cloud developer based in Medellín, Colombia. I build **REST and ser
 
 ---
 
-## Projects
+<h2><img src="./assets/heading-projects.svg" width="320" height="44" alt="Projects" /></h2>
 
 I am moving my AWS and Node.js work into public repositories, starting with serverless APIs. This section grows as each project ships.
 
@@ -99,7 +99,7 @@ I am moving my AWS and Node.js work into public repositories, starting with serv
 
 ---
 
-## Beyond code
+<h2><img src="./assets/heading-beyond.svg" width="320" height="44" alt="Beyond code" /></h2>
 
 <table>
 <tr>
@@ -120,7 +120,7 @@ And yes, I am a dog person. The ASCII one in the terminal above was not an accid
 
 ---
 
-## Get in touch
+<h2><img src="./assets/heading-contact.svg" width="320" height="44" alt="Get in touch" /></h2>
 
 I am open to backend, cloud and junior full-stack roles, remote or hybrid in Medellín.
 
