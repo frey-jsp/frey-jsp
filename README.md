@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+%26+Cloud+Developer;Node.js+%7C+TypeScript+%7C+Python;Serverless+on+AWS+%7C+Lambda+%2B+API+Gateway;SQL+%26+NoSQL+%7C+Docker+%7C+clean+code" alt="Backend and Cloud Developer - Node.js, TypeScript, Python, serverless on AWS with Lambda and API Gateway, SQL and NoSQL, Docker, clean code" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Freymer%20Sep%C3%BAlveda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freymer-sep%C3%BAlveda-82b276332/)
-[![Email](https://img.shields.io/badge/Email-frayryderx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frayryderx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-frayryderx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freymerjsp@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View-2F80ED?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/frey-jsp/CV)
 
 ![Location](https://img.shields.io/badge/Medell%C3%ADn%2C%20Colombia-30363D?style=flat-square&logo=googlemaps&logoColor=white)
@@ -125,6 +125,6 @@ And yes, I am a dog person. The ASCII one in the terminal above was not an accid
 I am open to backend, cloud and junior full-stack roles, remote or hybrid in Medellín.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freymer-sep%C3%BAlveda-82b276332/)
-[![Email](https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frayryderx@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freymerjsp@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:1f6feb,100:0d1117&height=120&section=footer" alt="" width="100%" />
